@@ -1,1 +1,3 @@
-yarn add @giphy/react-components @giphy/js-fetch-api
+maven {
+    url "http://giphy.bintray.com/giphy-sdk"
+}
